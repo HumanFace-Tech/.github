@@ -12,11 +12,11 @@ Welcome to HumanFace Tech, where we specialize in **Generative AI and Large Lang
 
 At HumanFace Tech, we focus on three core areas:
 
-### 🤖 **GenAI/LLM Products**
+### 🤖 **GenAI/LLM**
 We build innovative products powered by cutting-edge AI technology:
-- **Benchmarking Tools**: Advanced evaluation frameworks for AI models
-- **Voice-to-Text Solutions**: Seamless speech recognition with AI enhancement
-- **Developer Tools**: CLI frameworks and utilities for AI workflows
+- **Niche AI Models**: Specialized advanced AI models;
+- **Products**: [Agamabot](https://agamabot.com/), [MedicalTourism.Review](https://medicaltourism.review/) and others;
+- **Developer Tools**: CLI frameworks and utilities for AI workflows;
 
 ### 🔧 **Professional Services**
 - **AI Integration**: Seamless integration of LLMs into existing systems
@@ -69,11 +69,9 @@ A streamlined Progressive Web App that combines speech recognition with AI text 
 
 ## 🛠️ Technologies We Work With
 
-- **LLM Providers**: OpenAI, Anthropic, Groq, Ollama
-- **Frameworks**: Python, JavaScript, Node.js
-- **AI Tools**: Whisper ASR, LiteLLM, DeepEval
-- **Infrastructure**: Docker, Progressive Web Apps
-- **Methodologies**: LLM-as-a-Judge, Multi-turn Conversations
+- **LLM/AI**: LangChain, LangGraph, LangFuse, LangServe, LiteLLM, LightEval, DeepEval, llama-cpp, etc.
+- **Vector Databases**: PGVector (PostgreSQL), Weaviate, Pinecone, FAISS, etc.
+- **Langauges**: Python, JS/TS, PHP.
 
 ---
 
@@ -82,7 +80,7 @@ A streamlined Progressive Web App that combines speech recognition with AI text 
 Whether you're looking to integrate AI into your business, need custom AI solutions, or want to collaborate on cutting-edge research, we'd love to hear from you.
 
 - 🌐 **Website**: [humanfacetech.com](https://www.humanfacetech.com/)
-- 📧 **Business Inquiries**: Contact us through our website
+- 📧 **Business Inquiries**: [Contact us through our website](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3MvmJCrtltllV0bv1h7BMvEUHyLWWS76p5viktzbOT5Jhs-dvfPRvTpFJ3Nt6X8CqHCM1f1q_M)
 - 🐙 **Open Source**: Explore our repositories and contribute!
 
 ---
@@ -95,6 +93,3 @@ Whether you're looking to integrate AI into your business, need custom AI soluti
 - **🤝 Community Driven**: Active contributors to open-source AI projects
 - **💡 Real-world Focus**: Solutions that solve actual problems
 
----
-
-*Vibe-coded with passion at HumanFace Tech - where we build tools that actually make sense and work the way you'd expect them to.*
